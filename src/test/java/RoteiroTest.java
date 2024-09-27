@@ -6,7 +6,7 @@ public class RoteiroTest {
     @Test
     public void testIsAVL() {
     	BST bst = new BST();
-    	assertTrue(bst.isAVL());
+        assertTrue(bst.isAVL());
     	int[] values = new int[]{41,20,11,29,
     		32,65,50,91,72,99};
     	for (int i : values)
