@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Ewerton Fernandes de Souza
+* Email (@ccc): ewerton.fernandes.souza@ccc.ufcg.edu.br
+* Matrícula: 123110367
 
 # Roteiro: isAVL
 
